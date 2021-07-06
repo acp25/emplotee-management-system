@@ -2,7 +2,7 @@
 
 ## Installation
 
-Please clone the repositry from Github and use any source code editor that you would like.
+Please clone the repositry from Github and use any source code editor that you would like. You will also need to create a database for this application to work.
 
 ## Usage
 
