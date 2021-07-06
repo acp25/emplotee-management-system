@@ -1,4 +1,4 @@
-# emplotee-management-system
+# employee-management-system
 
 ## Installation
 
