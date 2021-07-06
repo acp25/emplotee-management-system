@@ -1,4 +1,4 @@
-# employee-management-system
+# employee-tracker
 
 ## Installation
 
