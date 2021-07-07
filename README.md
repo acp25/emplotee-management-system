@@ -16,10 +16,10 @@ https://youtu.be/IJ8ig1SBKQ0
 
 Made by Alex Philibert
 
-MySQL 
+MySQL: https://www.npmjs.com/package/mysql
 
 
-inquirer
+inquirer: https://www.npmjs.com/package/inquirer
 
 
 ## MIT License
