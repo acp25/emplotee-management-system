@@ -22,7 +22,6 @@ MySQL: https://www.npmjs.com/package/mysql
 inquirer: https://www.npmjs.com/package/inquirer
 
 
-express: https://www.npmjs.com/package/express
 
 
 ## MIT License
