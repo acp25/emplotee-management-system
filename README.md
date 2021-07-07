@@ -6,6 +6,9 @@ Please clone the repositry from Github and use any source code editor that you w
 
 ## Usage
 
+video demo: 
+https://youtu.be/IJ8ig1SBKQ0
+
 ![emptrkpic](https://user-images.githubusercontent.com/60405505/124678743-2ce8a380-de91-11eb-888e-c04e59b17023.GIF)
 
 
